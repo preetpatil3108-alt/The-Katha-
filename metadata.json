@@ -1,0 +1,8 @@
+{
+  "name": "THE KATHA",
+  "description": "A 3D third-person adventure game based on Vinayaka Chavithi by Millennials Youth Association in Rangastalam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
